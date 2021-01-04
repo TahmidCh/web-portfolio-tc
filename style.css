@@ -26,6 +26,7 @@ h1
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .anchor-style{
     text-decoration: none;
